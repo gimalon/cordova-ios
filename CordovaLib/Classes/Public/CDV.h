@@ -23,6 +23,7 @@
 #import "CDVPlugin.h"
 #import "CDVPluginResult.h"
 #import "CDVViewController.h"
+#import "CDVMessageAppViewController.h"
 #import "CDVCommandDelegate.h"
 #import "CDVURLProtocol.h"
 #import "CDVInvokedUrlCommand.h"
